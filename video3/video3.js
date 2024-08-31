@@ -6,4 +6,4 @@ let y = 5;
 let z = 6;
 
 
-console.log('ket qua x = ',+'x'+x+'y= '+y+'z= '+z)
+console.log('ket qua x = ','x'+x+'y= '+y+'z= '+z)
